@@ -1,0 +1,38 @@
+.top-container{
+    background-color: lightseagreen;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    background-color: lightgreen;
+    
+}
+.bottom-container{
+    background-color: lightpink;
+}
+body{
+    margin:0px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+h1{
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    color: #325a5a;
+}
+h2{
+    font-size: 2rem;
+    color: #325a5a;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
